@@ -1,8 +1,6 @@
 from Enemigo import *
-
-from Zombie import *
-
-from Ogro import *
+from zombie import *
+from ogro import *
 
 
 
